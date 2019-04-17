@@ -1,0 +1,1 @@
+This file contains Dyalog code that solves the Zebra Puzzle(https://en.wikipedia.org/wiki/Zebra_puzzle). The full article detailing this process can be read [here](https://dalrym.pl/writing/20180429-simulated-annealing.html).
